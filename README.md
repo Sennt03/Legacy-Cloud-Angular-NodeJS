@@ -1,5 +1,5 @@
-# Nuevo Diseño esta siendo creado en: https://social.davidruiz.online
-# Y Código Refactorizado. Link github: https://github.com/Sennt03/sennt-cloud-migracion
+# Esta aplicación fue refactorizada a Angular 20
+Link: https://github.com/Sennt03/Cloud-Angular-NodeJS
 
 # Mean Stack Nube Online
 App SPA, con Angular y NodeJS
